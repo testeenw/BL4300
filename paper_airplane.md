@@ -1,4 +1,4 @@
-Hello there, these are the directions for how to fold a paper airplane
+# Hello there, these are the directions for how to fold a paper airplane
 
 Fold the paper in half hot-dog style. This should leave a long thin piece of paper. 
 Now unfold the paper.
